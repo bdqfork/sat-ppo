@@ -1,0 +1,17 @@
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.h
+.pytest_cache/
+
+runs/
+data
+cache
+model
+minisat
+tmp
+.vscode
+sat.json

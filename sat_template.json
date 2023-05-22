@@ -1,0 +1,10 @@
+{
+  "data_path": "data/satlab/100/valid.txt", 
+  "level": 4, 
+  "timeout": 60, 
+  "solver":"minisat",
+  "p_conflict": -1, 
+  "p_buffer": 10000, 
+  "env": "explore",
+  "mod":"dfs"
+}
